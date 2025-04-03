@@ -87,7 +87,3 @@
 </div>
 
 ###
-
-<img src="https://raw.githubusercontent.com/haran-murthi-204/haran-murthi-204/output/snake.svg" alt="Snake animation" />
-
-###
